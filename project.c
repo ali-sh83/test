@@ -9,7 +9,7 @@ int main() {
         scanf("%d", &n);
         int a[n];
         for (int i = 0; i < n; i++) {
-            scanf("%d", &a[i]);
+            scanf("%d", &a[ij);
         }
         int adad = 0;
         int max = 0;
